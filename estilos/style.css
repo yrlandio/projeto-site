@@ -10,6 +10,12 @@ body {
 
 }
 
+
+img.lado {
+    float: right;
+}
+
+
 main {
     background-color: rgb(255, 254, 252);
     width: 500px;
